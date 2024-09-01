@@ -1,0 +1,1 @@
+MyBlog is a simple blogging application built with Spring Boot. It allows users to create, update, view, and delete blog posts. The application uses Thymeleaf for rendering views, and JPA (Java Persistence API) for interacting with a database.
