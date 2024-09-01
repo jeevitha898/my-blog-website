@@ -27,7 +27,7 @@ MyBlog is a simple blogging application built with Spring Boot. It allows users 
 
 ### View All Posts
 
-![View Posts](screenshots/view_posts.png)
+![View Posts](src/main/resources/templates/post_view.png)
 
 ### Create New Post
 
