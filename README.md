@@ -22,3 +22,14 @@ MyBlog is a simple blogging application built with Spring Boot. It allows users 
 - **Thymeleaf**: As a template engine for rendering HTML pages.
 - **JPA & Hibernate**: For ORM and database interactions.
 - **MySQL**: For persistent data storage in a relational database.
+
+## Screenshots
+
+### View All Posts
+
+![View Posts](screenshots/view_posts.png)
+
+### Create New Post
+
+![Create Post](screenshots/create_post.png)
+
